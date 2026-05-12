@@ -6,14 +6,36 @@ I am a software engineer passionate about full-stack development, explainable AI
 *   💼 Previously gained professional experience at **Ümraniye Belediyesi**.
 *   🌱 Currently sharpening my API testing and web vulnerability skills via the **PortSwigger Web Security Academy**.
 
-### 🛠️ Tech Stack & Tools
-*   **Languages:** Python, JavaScript, SQL, HTML/CSS
-*   **Frontend:** React, Next.js, TailwindCSS
-*   **Backend & Database:** FastAPI, MySQL, SQLAlchemy, Alembic
-*   **AI & Machine Learning:** PyTorch, Computer Vision (MobileNetV2), Explainable AI (Grad-CAM)
-*   **LLMs & NLP:** LLaMA 3, RAG (Retrieval-Augmented Generation), Groq API, Gemini API, RAGAS
-*   **Edge Computing:** Nvidia Jetson Nano
-*   **DevOps & Deployment:** Docker, Git, Vercel, Railway, GitHub Actions
+### 🛠️ Tech Stack
+
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🧠 Backend & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge)
+
+#### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-black?style=for-the-badge)
+![LLaMA 3](https://img.shields.io/badge/LLaMA_3-0466c8?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7209b7?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-f55036?style=for-the-badge)
+
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
 ---
 
@@ -47,7 +69,7 @@ I am a software engineer passionate about full-stack development, explainable AI
 ---
 
 ### 📈 GitHub Stats
-![Rıza's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXx0001-crybto&show_icons=true&theme=radical)
+![Rıza's GitHub stats](https://streak-stats.demolab.com?user=xXx0001-crybto&theme=radical)
 
 <!-- 
 ### 📬 Let's Connect!
